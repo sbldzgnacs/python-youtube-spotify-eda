@@ -25,7 +25,7 @@ Proje, Spotify ve YouTube'dan elde edilen veri setleri ile gerçekleştirilmişt
 
 Proje kapsamındaki görseller, Python kullanılarak oluşturulmuştur. Aşağıda bazı örnek görseller yer almaktadır:
 
-![Görsel 1](link_to_your_image_1)
+![Görsel 1](https://github.com/sbldzgnacs/python-youtube-spotify-eda/blob/main/Ayk%C4%B1r%C4%B1_Degerler.jpg)
 ![Görsel 2](link_to_your_image_2)
 
 ## Projeyi Çalıştırma
